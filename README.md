@@ -24,7 +24,7 @@ Haven't done much data visualization ever so might as well try something new and
 - Plotly and Geopy Used
 
 ## End Result
-![permalink result pic](https://i.imgur.com/PjUhQBB.gif)
+![permalink result pic](https://github.com/danielle-fang/map_fun/blob/master/result_pic.png)
 
 ## Sources
 ### Plotly
